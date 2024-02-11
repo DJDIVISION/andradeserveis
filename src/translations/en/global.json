@@ -1,0 +1,125 @@
+{
+    "header": {
+        "message1": "YOUR TRUSTED HANDYMAN",
+        "message2": "24H EMERGENCIES",
+        "message3": "EVERY DAY OF THE YEAR"
+    },
+    "heroTitle": "DISCOVER OUR SERVICES",
+    "services": {
+        "1": "ELECTRICITY",
+        "2": "PLUMBING",
+        "3": "PALLETRY",
+        "4": "CARPENTRY",
+        "5": "PAINTING",
+        "6": "CLEANING",
+        "7": "MOVINGS",
+        "8": "COMPUTING"
+    },
+    "buttons": {
+        "1": "READ MORE ABOUT ELECTRICITY",
+        "2": "READ MORE ABOUT PLUMBING",
+        "3": "READ MORE ABOUT PALLETRY",
+        "4": "READ MORE ABOUT CARPENTRY",
+        "5": "READ MORE ABOUT PAINTING",
+        "6": "READ MORE ABOUT CLEANING",
+        "7": "READ MORE ABOUT MOVINGS",
+        "8": "READ MORE ABOUT COMPUTING"
+    },
+    "electricidad": {
+        "texto": "Our electricians are experts \n in the installation, maintenance \n and  repair of any type \n of electrical installation.",
+        "carta1": "We install all types of plugs, whether surface plugs or built-in outlets.",
+        "carta2": "We install all the wall or ceiling lamps that exist on the market, even outdoors.",
+        "carta3": "We are experts in the assembly and wiring of distribution panels, always guaranteeing 100% safety.",
+        "carta4": "We install all the light points that your home needs and carry out switched light installations.",
+        "titulo1": "PLUGS",
+        "titulo2": "LIGHTS",
+        "titulo3": "ELECTRIC PANELS",
+        "titulo4": "LIGHT POINTS",
+        "titulo": "ELECTRICITY"
+    },
+    "botonPresupuesto": "REQUEST A QUOTE",
+    "fontaneria": {
+        "texto": "We solve pipe and drain blockages, \n repair leaks and take care of \n any type of plumbing installation.",
+        "carta1": "Specialists in detecting and repairing water leaks in the fastest and most economical way.",
+        "carta2": "We install the drains that your kitchen and bathroom appliances and utensils need.",
+        "carta3": "We install or replace copper plumbing, heating or gas pipes in your home or business.",
+        "carta4": "We install heating in your home or business, whether gas, electric or diesel.",
+        "titulo1": "LEAKS",
+        "titulo2": "DRAINS",
+        "titulo3": "COPPER TUBES",
+        "titulo4": "HEATING",
+        "titulo": "PLUMBING"
+    },
+    "paleteria": {
+        "texto": "We offer a renovation service \n both indoors and outdoors, \n personalized and adapted \n to your needs and budget.",
+        "carta1": "We change bathtubs for shower trays and install or renovate your bathroom for functionality and elegance.",
+        "carta2": "We advise, carry out the transport and installation of all the elements of the kitchen of your dreams.",
+        "carta3": "We are experts in the renovation or installation of tile, laminate, epoxy resin, vinyl and painted floors.",
+        "carta4": "We design and build terraces in multiple materials to renew the garden of your home.",
+        "titulo1": "BATHROOMS",
+        "titulo2": "KITCHENS",
+        "titulo3": "FLOORS",
+        "titulo4": "TERRACES",
+        "titulo": "PALLETRY"
+    },
+    "carpinteria": {
+        "texto": "Our carpenters are experts in \n the installation, maintenance and \n repair of any type of wooden \n or aluminum structure.",
+        "carta1": "We help you with transportation or we design and assemble all the furniture for your home, office, premises or business.",
+        "carta2": "We design and carry out installations of all types of structures in wood and aluminum.",
+        "carta3": "We maintain the wood of your furniture or repair wood that has been damaged by external agents.",
+        "carta4": "We install or renew your doors with solid wood doors, solid core doors, hollow core doors or aluminum doors.",
+        "carta5": "We install or renew your windows with solid wood, solid core, hollow core or aluminum windows.",
+        "titulo1": "FURNITURE ASSEMBLY",
+        "titulo2": "INSTALLATIONS",
+        "titulo3": "REPARATIONS",
+        "titulo4": "DOORS",
+        "titulo5": "WINDOWS",
+        "titulo": "CARPENTRY"
+    },
+    "pintura": {
+        "texto": "Perfect finishes, speed, \n seriousness and good price \n make our painting service \n the best on the market.",
+        "carta1": "Andrade Serveis offers a wide range of styles, designs, textures, effects and colors for the interior.",
+        "carta2": "Specialists in stone or acrylic coatings for the durability and protection of your exteriors.",
+        "carta3": "We achieve the best finish for your walls with our catalog of stuccoes, both plastic and acrylic.",
+        "carta4": "We repair and smooth walls damaged by cracks, humidity or dripping so that they can be painted.",
+        "titulo1": "INDOORS",
+        "titulo2": "OUTDOORS",
+        "titulo3": "COATED",
+        "titulo4": "STRAIGHTENING",
+        "titulo": "PAINTING"
+    },
+    "limpieza": {
+        "texto": "For more than 20 years we \n have been offering the best \n range of hygiene and cleaning \n services for your facilities.",
+        "carta1": "Professional thorough cleaning or vacuuming of flats and houses, inhabited or rented, in a single day.",
+        "carta2": "We adapt to the schedules and needs of your office to guarantee absolute cleaning and disinfection.",
+        "carta3": "Thanks to our 24-hour cleaning service, we can take care of your premises at any time of the day.",
+        "carta4": "We offer services by the hour or fixed daily template for the cleaning and disinfection of your company or business.",
+        "carta5": "Impeccable gardens with our cleaning and maintenance service always respecting the environment.",
+        "carta6": "Cleaning and disinfection of toilets for large stores, shopping centers, restaurants or nightclubs.",
+        "titulo1": "APPARTMENTS",
+        "titulo2": "OFFICES",
+        "titulo3": "COMMERCIAL PREMISES",
+        "titulo4": "COMPANIES",
+        "titulo": "CLEANING"
+    },
+    "mudanzas": {
+        "texto": "We provide an economical, \n fast and professional service for \n moving, shipping and transporting \n merchandise throughout Catalonia.",
+        "carta1": "Fast and safe services to carry out emergency transfers in the shortest time possible.",
+        "carta2": "Fast and safe services to carry out emergency transfers in the shortest time possible.",
+        "carta3": "We are specialized in moving services throughout the province of Barcelona for individuals and companies.",
+        "titulo1": "SHIPPING",
+        "titulo2": "EXPRESS",
+        "titulo3": "COMPLETE MOVE",
+        "titulo": "MUDANZAS"
+    },
+    "informatica": {
+        "texto": "We have the best computer \n maintenance service for companies \n and individuals, technical assistance \n and computer emergencies.",
+        "carta1": "We specialize in web page design with a modern, functional and professional design.",
+        "carta2": "With our SEO service we ensure that your website appears in the top positions on Google.",
+        "carta3": "We solve any SSOO installation and configuration problem, or in software and components.",
+        "titulo1": "WEB DESIGN",
+        "titulo2": "POSITIONING",
+        "titulo3": "TECHNICAL SUPPORT",
+        "titulo": "COMPUTING"
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "header": {
+        "message1": "EL TEU MANETES DE CONFIANÇA",
+        "message2": "URGÈNCIES 24H",
+        "message3": "ELS 365 DIES DE L'ANY!"
+    },
+    "heroTitle": "DESCOBREIX ELS NOSTRES SERVEIS",
+    "services": {
+        "1": "ELECTRICITAT",
+        "2": "FONTANERIA",
+        "3": "PALETERIA",
+        "4": "CARPINTERIA",
+        "5": "PINTURA",
+        "6": "NETEJA",
+        "7": "MUDANCES",
+        "8": "INFORMÀTICA"
+    },
+    "buttons": {
+        "1": "LLEGEIX MÉS SOBRE ELECTRICITAT",
+        "2": "LLEGEIX MÉS SOBRE FONTANERIA",
+        "3": "LLEGEIX MÉS SOBRE PALETERIA",
+        "4": "LLEGEIX MÉS SOBRE CARPINTERIA",
+        "5": "LLEGEIX MÉS SOBRE PINTURA",
+        "6": "LLEGEIX MÉS SOBRE NETEJA",
+        "7": "LLEGEIX MÉS SOBRE MUDANCES",
+        "8": "LLEGEIX MÉS SOBRE INFORMÀTICA"
+    },
+    "electricidad": {
+        "texto": "Els nostres electricistes són experts \n en la instal·lació, manteniment i \n reparació de qualsevol tipus \n d'instal·lació elèctrica.",
+        "carta1": "Col·loquem tot tipus d'endolls, ja siguin endolls de superfície o preses de corrent encastades.",
+        "carta2": "Instal·lem tots els llums de paret o de sostre que hi ha al mercat, fins i tot a exteriors.",
+        "carta3": "Som experts en el muntatge i cablejat de quadres de distribució, garantint sempre la seguretat al 100%.",
+        "carta4": "Instal·lem tots els punts de llum que la vostra llar necessiti i realitzem instal·lacions de llum commutades.",
+        "titulo1": "ENDOLLS",
+        "titulo2": "LLUMS",
+        "titulo3": "QUADRES ELÈCTRICS",
+        "titulo4": "PUNTS DE LLUM",
+        "titulo": "ELECTRICITAT"
+    },
+    "botonPresupuesto": "SOL·LICITA PRESSUPOST",
+    "fontaneria": {
+        "texto": "Solucionem embussos de canonades \n i desguassos, reparem fuites i ens \n encarreguem de qualsevol tipus \n d'instal·lació de fontaneria.",
+        "carta1": "Especialistes en detecció i reparació de fuites daigua de la forma més ràpida i econòmica.",
+        "carta2": "Instal·lem els desguassos que necessitin els electrodomèstics i utensilis de la seva cuina i bany.",
+        "carta3": "Instal·lem o reemplacem els tubs de coure de fontaneria, la calefacció o el gas de casa seva o empresa.",
+        "carta4": "Realitzem la instal·lació de la calefacció a casa seva o empresa, ja sigui de gas, elèctrica o de gasoil.",
+        "titulo1": "FUITES",
+        "titulo2": "DESGUASSOS",
+        "titulo3": "TUBS DE COURE",
+        "titulo4": "CALEFACCIÓ",
+        "titulo": "FONTANERIA"
+    },
+    "paleteria": {
+        "texto": "Oferim un servei de reformes tant \n en interiors com en exteriors \n personalitzat i adaptat a les teves \n necessitats i pressupost.",
+        "carta1": "Canviem banyeres per plats de dutxa i instal·lem o reformem el teu bany perquè una funcionalitat i elegància.",
+        "carta2": "Assessorem, realitzem el transport i la instal·lació de tots els elements de la cuina dels teus somnis.",
+        "carta3": "Som experts en la reforma o instal·lació de terres de rajola, laminats, de resina epoxi, de vinil i pintats.",
+        "carta4": "Dissenyem i construïm terrasses en múltiples materials per renovar el jardí de casa teva.",
+        "titulo1": "BANYS",
+        "titulo2": "CUINES",
+        "titulo3": "TERRES",
+        "titulo4": "TERRASSES",
+        "titulo": "PALETERIA"
+    },
+    "carpinteria": {
+        "texto": "Els nostres fusters són experts en \n la instal·lació, el manteniment i la \n reparació de qualsevol tipus \n d'estructura de fusta o d'alumini.",
+        "carta1": "T'ajudem amb el transport o dissenyem i muntem tots els mobles de casa teva, oficina, local o negoci.",
+        "carta2": "Dissenyem i realitzem instal·lacions de tota mena d'estructures de fusta i alumini.",
+        "carta3": "Mantenim la fusta dels teus mobles o reparem aquella que hagi estat malmesa per agents externs.",
+        "carta4": "Instal·lem o renovem les portes per portes de fusta sòlida, de nucli sòlid, de nucli buit o d'alumini.",
+        "carta5": "Instal·lem o renovem les portes de fusta sòlida, de nucli sòlid, de nucli buit o d'alumini.",
+        "titulo1": "MUNTATGE DE MOBLES",
+        "titulo2": "INSTAL·LACIONS",
+        "titulo3": "REPARACIONS",
+        "titulo4": "PORTES",
+        "titulo5": "FINESTRES",
+        "titulo": "CARPINTERIA"
+    },
+    "pintura": {
+        "texto": "Acabats perfectes, rapidesa, \n serietat i bon preu fan que \n el nostre servei de pintura \n sigui el millor del mercat.",
+        "carta1": "Andrade Serveis ofereix un ampli ventall d'estils, dissenys, textures, efectes i colors per a l'interior.",
+        "carta2": "Especialistes en revestiments petris o acrílics per a la durabilitat i protecció dels seus exteriors.",
+        "carta3": "Aconseguim el millor acabat per a les parets amb el nostre catàleg d'estucats, tant plàstics com acrílics.",
+        "carta4": "Reparem i allisem parets danyades per esquerdes, humitats o amb gotelé perquè puguin ser pintades.",
+        "titulo1": "INTERIORS",
+        "titulo2": "EXTERIORS",
+        "titulo3": "ESTUCATS",
+        "titulo4": "ALLISATS",
+        "titulo": "PINTURA"
+    },
+    "limpieza": {
+        "texto": "Des de fa més de 20 anys \n posem al teu abast la millor \n oferta de serveis d'higiene i \n neteja per les teves instal·lacions.",
+        "carta1": "Neteja professional a fons o buidatge de pisos i cases, habitades o de lloguer, en una sola jornada.",
+        "carta2": "Ens adaptem als horaris i necessitats de la vostra oficina per garantir una neteja i desinfecció absoluta.",
+        "carta3": "Gràcies al nostre servei de neteja 24 hores ens podem ocupar del teu local a qualsevol hora del dia.",
+        "carta4": "Oferim serveis per hores o plantilla fixa diària per a la neteja i desinfecció de la vostra empresa o negoci.",
+        "carta5": "Jardins impecables amb el nostre servei de neteja i manteniment sempre respectant el medi ambient.",
+        "carta6": "Neteja i desinfecció de lavabos per a grans superfícies, centres comercials, restaurants o discoteques.",
+        "titulo1": "PISOS",
+        "titulo2": "OFICINAS",
+        "titulo3": "LOCALES",
+        "titulo4": "EMPRESAS",
+        "titulo": "LIMPIEZA"
+    },
+    "mudanzas": {
+        "texto": "Realitzem un servei econòmic, \n ràpid i professional de mudances, \n ports i transports de mercaderies \n a tot Catalunya.",
+        "carta1": "Serveis ràpids i segurs per fer trasllats d'urgència en el menor temps possible.",
+        "carta2": "Serveis ràpids i segurs per fer trasllats d'urgència en el menor temps possible.",
+        "carta3": "Estem especialitzats en serveis de mudances a tota la província de Barcelona per a particulars i empreses.",
+        "titulo1": "PORTS",
+        "titulo2": "EXPRESS",
+        "titulo3": "MUDANÇA COMPLETA",
+        "titulo": "MUDANZAS"
+    },
+    "informatica": {
+        "texto": "Disposem del millor servei de \n manteniment informàtic per a \n empreses i particulars, assistència \n tècnica i urgències informàtiques.",
+        "carta1": "Som especialistes en el disseny de pàgines web amb un disseny modern, funcional i professional.",
+        "carta2": "Amb el nostre servei SEO ens encarreguem que la seva pàgina web aparegui a les primeres posicions de Google.",
+        "carta3": "Solucionem qualsevol problema d'instal·lació i configuració de SSOO, software i components.",
+        "titulo1": "DISENY WEB",
+        "titulo2": "POSICIONAMIENT",
+        "titulo3": "SERVEI TÈCNIC",
+        "titulo": "INFORMÀTICA"
+    }
+}

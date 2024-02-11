@@ -1,0 +1,127 @@
+{
+    "header": {
+        "message1": "TU MANITAS DE CONFIANZA",
+        "message2": "URGENCIAS 24H",
+        "message3": "¡LOS 365 DÍAS DEL AÑO!"
+    },
+    "heroTitle": "DESCUBRE NUESTROS SERVICIOS",
+    "services": {
+        "1": "ELECTRICIDAD",
+        "2": "FONTANERÍA",
+        "3": "PALETERÍA",
+        "4": "CARPINTERÍA",
+        "5": "PINTURA",
+        "6": "LIMPIEZA",
+        "7": "MUDANZAS",
+        "8": "INFORMÁTICA"
+    },
+    "buttons": {
+        "1": "LEE MÁS SOBRE ELECTRICIDAD",
+        "2": "LEE MÁS SOBRE FONTANERÍA",
+        "3": "LEE MÁS SOBRE PALETERÍA",
+        "4": "LEE MÁS SOBRE CARPINTERÍA",
+        "5": "LEE MÁS SOBRE PINTURA",
+        "6": "LEE MÁS SOBRE LIMPIEZA",
+        "7": "LEE MÁS SOBRE MUDANZAS",
+        "8": "LEE MÁS SOBRE INFORMÁTICA"
+    },
+    "electricidad": {
+        "texto": "Nuestros electricistas son expertos \n en la instalación, mantenimiento y \n reparación de cualquier tipo \n de instalación eléctrica.",
+        "carta1": "Colocamos todo tipo de enchufes, ya sean enchufes de superficie o tomas de corriente empotradas.",
+        "carta2": "Instalamos todas las lámparas de pared o de techo que existen en el mercado, incluso en exteriores.",
+        "carta3": "Somos expertos en el montaje y cableado de cuadros de distribución, garantizando siempre la seguridad al 100%.",
+        "carta4": "Instalamos todos los puntos de luz que su hogar necesite y realizamos instalaciones de luz conmutadas.",
+        "titulo1": "ENCHUFES",
+        "titulo2": "LÁMPARAS",
+        "titulo3": "CUADROS ELÉCTRICOS",
+        "titulo4": "PUNTOS DE LUZ",
+        "titulo": "ELECTRICIDAD"
+    },
+    "botonPresupuesto": "SOLICITA PRESUPUESTO",
+    "fontaneria": {
+        "texto": "Solucionamos atascos de tuberías \n y desagües, reparamos fugas \n y nos encargamos de cualquier \n tipo de instalación de fontanería.",
+        "carta1": "Especialistas en detección y reparación de fugas de agua de la forma más rápida y económica.",
+        "carta2": "Instalamos los desagües que necesiten los electrodomésticos y utensilios de su cocina y baño.",
+        "carta3": "Instalamos o reemplazamos los tubos de cobre de fontanería, la calefacción o el gas de su hogar o empresa.",
+        "carta4": "Realizamos la instalación de la calefacción en su hogar o empresa, ya sea de gas, eléctrica o de gasoil.",
+        "titulo1": "FUGAS",
+        "titulo2": "DESAGÜES",
+        "titulo3": "TUBOS DE COBRE",
+        "titulo4": "CALEFACCIÓN",
+        "titulo": "FONTANERÍA"
+    },
+    "paleteria": {
+        "texto": "Ofrecemos un servicio de reformas \n tanto en interiores como en \n exteriores personalizado y adaptado \n a tus necesidades y presupuesto.",
+        "carta1": "Cambiamos bañeras por platos de ducha y instalamos o reformamos tu baño para que una funcionalidad y elegancia.",
+        "carta2": "Asesoramos, realizamos el transporte y la instalación de todos los elementos de la cocina de tus sueños.",
+        "carta3": "Somos expertos en la reforma o instalación de suelos de baldosa, laminados, de resina epoxi, de vinilo y pintados.",
+        "carta4": "Diseñamos y construimos terrazas en múltiples materiales para renovar el jardín de tu casa.",
+        "titulo1": "BAÑOS",
+        "titulo2": "COCINAS",
+        "titulo3": "SUELOS",
+        "titulo4": "TERRAZAS",
+        "titulo": "PALETERÍA"
+    },
+    "carpinteria": {
+        "texto": "Nuestros carpinteros son expertos \n en la instalación, mantenimiento y \n reparación de cualquier tipo de \n estructura de madera o de aluminio.",
+        "carta1": "Te ayudamos con el transporte o diseñamos y montamos todos los muebles de tu casa, oficina, local o negocio.",
+        "carta2": "Diseñamos y realizamos instalaciones de todo tipo de estructuras en madera y aluminio.",
+        "carta3": "Mantenemos la madera de tus muebles o reparamos aquella que haya sido dañada por agentes externos.",
+        "carta4": "Instalamos o renovamos tus puertas por puertas de madera sólida, de núcleo sólido, de núcleo hueco o de aluminio.",
+        "carta5": "Instalamos o renovamos tus ventanas de madera sólida, de núcleo sólido, de núcleo hueco o de aluminio.",
+        "titulo1": "MONTAJE DE MUEBLES",
+        "titulo2": "INSTALACIONES",
+        "titulo3": "REPARACIONES",
+        "titulo4": "PUERTAS",
+        "titulo5": "VENTANAS",
+        "titulo": "CARPINTERÍA"
+    },
+    "pintura": {
+        "texto": "Acabados perfectos, rapidez, \n seriedad y buen precio hacen \n que nuestro servicio de pintura \n sea el mejor del mercado.",
+        "carta1": "Andrade Serveis ofrece un amplio abanico de estilos, diseños, texturas, efectos y colores para el interior.",
+        "carta2": "Especialistas en revestimientos pétreos o acrílicos para la durabilidad y protección de sus exteriores.",
+        "carta3": "Conseguimos el mejor acabado para sus paredes con nuestro catálogo de estucados, tanto plásticos como acrílicos.",
+        "carta4": "Reparamos y alisamos paredes dañadas por grietas, humedades o con gotelé para que puedan ser pintadas.",
+        "titulo1": "INTERIORES",
+        "titulo2": "EXTERIORES",
+        "titulo3": "ESTUCADOS",
+        "titulo4": "ALISADOS",
+        "titulo": "PINTURA"
+    },
+    "limpieza": {
+        "texto": "Desde hace más de 20 años \n ponemos a tu alcance la mejor \n oferta de servicios de higiene y \n limpieza para sus instalaciones.",
+        "carta1": "Limpieza profesional a fondo o vaciado de pisos y casas, habitadas o en alquiler, en una sola jornada.",
+        "carta2": "Nos adaptamos a los horarios y necesidades de su oficina para garantizar una limpieza y desinfección absoluta.",
+        "carta3": "Gracias a nuestro servicio de limpieza 24 horas podemos ocuparnos de tu local a cualquier hora del día.",
+        "carta4": "Ofrecemos servicios por horas o plantilla fija diaria para la limpieza y desinfección de su empresa o negocio.",
+        "carta5": "Jardines impecables con nuestro servicio de limpieza y mantenimiento, siempre respetando el medio ambiente.",
+        "carta6": "Limpieza y desinfección de aseos para grandes superficies, centros comerciales, restaurantes o discotecas.",
+        "titulo1": "PISOS",
+        "titulo2": "OFICINAS",
+        "titulo3": "LOCALES",
+        "titulo4": "EMPRESAS",
+        "titulo5": "JARDINES",
+        "titulo6": "ASEOS",
+        "titulo": "LIMPIEZA"
+    },
+    "mudanzas": {
+        "texto": "Realizamos un servicio económico, \n rápido y profesional de mudanzas, \n portes y transportes de mercaderías \n en toda Cataluña.",
+        "carta1": "Servicios rápidos y seguros para realizar traslados de urgencia en el menor tiempo posible.",
+        "carta2": "Servicios rápidos y seguros para realizar traslados de urgencia en el menor tiempo posible.",
+        "carta3": "Estamos especializados en servicios de mudanzas en toda la provincia de Barcelona para particulares y empresas.",
+        "titulo1": "PORTES",
+        "titulo2": "EXPRESS",
+        "titulo3": "MUDANZA COMPLETA",
+        "titulo": "MUDANZAS"
+    },
+    "informatica": {
+        "texto": "Disponemos del mejor servicio \n de mantenimiento informático para \n empresas y particulares, asistencia \n técnica y urgencias informáticas.",
+        "carta1": "Nos especializamos en el diseño de páginas web con un diseño moderno, funcional y profesional.",
+        "carta2": "Con nuestro servicio SEO nos encargamos de que su página Web aparezca en las primeras posiciones de Google.",
+        "carta3": "Solucionamos cualquier problema de instalación y configuración de SSOO, software y componentes.",
+        "titulo1": "DISEÑO WEB",
+        "titulo2": "POSICIONAMIENTO",
+        "titulo3": "SERVICIO TÉCNICO",
+        "titulo": "INFORMÁTICA"
+    }
+}
